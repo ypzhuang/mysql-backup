@@ -1,4 +1,6 @@
 # mysql-backup
+
+## Fork from  https://github.com/databacker/mysql-backup @2020/10/18  Add timezone for env set  like TZ=Asia/Shanghai
 Back up mysql databases to... anywhere!
 
 ## Overview
